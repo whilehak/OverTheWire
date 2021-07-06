@@ -13,4 +13,8 @@ Command:
 ```
 find -size 1033c
 ```
-The manual page has detailed information about the argument. 
+*-size* means that a file matching a specific size will be searched for. The c means bytes. The manual page has more detailed information. 
+
+We see that one file matches this size. It is *./maybehere07/.file2*. Inside it, we have our password.
+
+Password: **DXjZPULLxYr17uwoI01bNLQbtFemEgo7**

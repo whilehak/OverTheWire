@@ -15,10 +15,11 @@ To print all files including hidden ones, we use
 ```
 ls -a
 ``` 
-This command lists files that begin with a period. The period means that it is hidden. 
-We see a file named _.hidden_, so we can type
+This command lists all files, including files that start with a period. Files that start with a period means that it is hidden.
+We see a file named _.hidden_, so we use
 ```
 cat .hidden
 ```
+to print the password.
 
 Password: **pIwrPrtPN36QITSp3EQaw936yaFoFgAB**

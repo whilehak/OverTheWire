@@ -14,6 +14,6 @@ The command is
 find -user bandit7 -group bandit6 -size 33c
 ```
 
-We see that we are not allowed to look at some directories because we don't have access to them. However, we see that we are allowed to look at one file named *bandit7.password*. The file path is *./var/lib/dpkg/info/bandit7.password*. 
+We see that we are not allowed to look at some directories because we don't have access to them. However, we see that we are allowed to look at one file named *bandit7.password*. The file path is *./var/lib/dpkg/info/bandit7.password*. The password is inside it.
 
 Password: **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**

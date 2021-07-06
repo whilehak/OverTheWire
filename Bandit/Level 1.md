@@ -6,10 +6,10 @@ We can use the command
 ```
 ls
 ```
-to print the files in the current directory. We have see the readme file. We can use 
+to list the files in our current directory. We see the readme file. We can use 
 ```
-cat
+cat readme
 ```
-to print the password.
+to print the contents of the file.
 
 Password: **boJ9jbbUNNfktd78OOpsqOltutMc3MY1**

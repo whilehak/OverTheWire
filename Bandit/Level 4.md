@@ -2,7 +2,7 @@
 The password for the next level is stored in a hidden file in the inhere directory.
 
 # Solution
-We can go inside the inhere directory using this command:
+We can go inside the *inhere* directory using this command:
 ```
 cd inhere
 ```

@@ -6,6 +6,6 @@ Inside the *inhere* directory, we see 10 files. They are *-file00*, *-file01*, *
 ```
 cat ./filename
 ```
-The period means the current directory and the slash separates directories and files. Using this command, we print the contents of the files. All the files except *-file07* has unusual characters. The password is in *-file07*.
+The period means the current directory and the slash separates directories and files. Using this command, we print the contents of the files. All the files except *-file07* contains unusual characters. The password is in *-file07*.
 
 Password: **koReBOKuIDDepwhWk7jZC0RTdopnAYKh**

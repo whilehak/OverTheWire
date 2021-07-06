@@ -5,7 +5,7 @@ The password for the next level is stored somewhere on the server and has all of
 * 33 bytes in size
 
 # Solution
-We will use *find* again. We can use the [manual page](https://man7.org/linux/man-pages/man1/find.1.html) or this [website](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/).
+We will use *find* again. We can use the [manual page](https://man7.org/linux/man-pages/man1/find.1.html) or this [website](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/) to learn about it.
 
 The argument to find all files owned by a user is *-user \[username]*. Similarly, the arguement to find all files owned by a group is *-group \[group name]*. 
 Since this password is located somewhere on the server and not limited to a particular directory, we go to root directory. 

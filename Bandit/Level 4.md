@@ -11,7 +11,7 @@ When we type
 ls
 ```
 inside the directory, the hidden file is not printed. 
-To print all files including hidden ones, we can type
+To print all files including hidden ones, we use
 ```
 ls -a
 ``` 

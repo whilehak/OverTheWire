@@ -12,4 +12,4 @@ or
 cat spaces\ in\ this\ filename
 ```
 
-Password: ***UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK***
+Password: **UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**

@@ -7,4 +7,6 @@ Command:
 ssh -i sshkey.private bandit14@localhost
 ```
 
+Password is located in /etc/bandit_pass/bandit14
+
 Password: **4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e**

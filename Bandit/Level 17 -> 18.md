@@ -12,8 +12,19 @@ Commands:
 chmod g-r private.txt
 chmod o-r private.txt
 ```
-Now, we can connect using the command.
+Now, we can connect using this command: 
 ```
 ssh -i private.txt bandit17@bandit.labs.overthewire.org -p 2220
 ```
 
+To compare our 2 text files, we use diff.
+```
+bandit17@bandit:~$ diff passwords.old passwords.new
+42c42
+< w0Yfolrc5bwjS4qw5mq1nnQi6mF03bii
+---
+> kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+```
+The password is in passwords.new.
+
+Password: **kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd**
